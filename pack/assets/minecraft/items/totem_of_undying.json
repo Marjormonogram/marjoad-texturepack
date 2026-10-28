@@ -28,6 +28,13 @@
           "type": "model",
           "model": "major:item/tasse/tasse"
         }
+      },
+      {
+        "when": "Illi",
+        "model": {
+          "type": "model",
+          "model": "major:item/axolotl/axolotl"
+        }
       }
     ]
   }

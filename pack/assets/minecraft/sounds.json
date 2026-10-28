@@ -1,0 +1,3 @@
+{
+  "entity.phantom.swoop": { "replace": true, "sounds": ["custom/max"] }
+}
