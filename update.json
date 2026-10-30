@@ -1,6 +1,6 @@
 {
-	"version": "1.2.0",
-	"url": "https://github.com/Marjormonogram/marjoad-texturepack/releases/download/v1.2.0/MarjoadPack-1.2.0.zip",
-	"sha256": "10e4891dbe5280efa7e2d1e388e5a0dab6915fbefbbafb5c6b39374a002d51d1",
-	"changelog": "Neues Totem: Illi (Axolotl), Phantom-Modell, neuer Sound"
+	"version": "1.2.1",
+	"url": "https://github.com/Marjormonogram/marjoad-texturepack/releases/download/v1.2.1/MarjoadPack-1.2.1.zip",
+	"sha256": "2ca486af1afd4819ccca5538893a3837c580dc446891fc6b800dac2bb99c5b93",
+	"changelog": "Jupischaf, Phantomsound temporär entfernt, Aufräumen, Baby-Zombie-Sound (in Arbeit)"
 }
